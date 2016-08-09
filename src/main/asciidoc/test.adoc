@@ -1,0 +1,8 @@
+= My Awesome Doc
+Robert Panzer<robert.panzer@me.com>
+
+A nice doc.
+
+== With a section
+
+That has a paragraph.
