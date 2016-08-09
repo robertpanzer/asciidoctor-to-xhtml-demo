@@ -1,0 +1,4 @@
+= Demo for Asciidoctor to XHTML conversion with the Asciidoctor Maven Plugin
+
+To convert the doc in src/main/asciidoc to XHTML just invoke `mvn asciidoctor:process-asciidoc`.
+

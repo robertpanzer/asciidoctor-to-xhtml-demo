@@ -1,0 +1,7 @@
+= Another document
+
+that will be rendered to XHTML
+
+== Also with a section
+
+and a paragraph
